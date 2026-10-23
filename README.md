@@ -14,7 +14,9 @@ can open and edit yourself.
 
 **The easy way — the standalone app**
 
-Download `Basic-Home-Library.exe` from the
+### [⬇ Download Basic-Home-Library.exe](../../releases/latest/download/Basic-Home-Library.exe)
+
+That link always serves the newest build; earlier versions are on the
 [Releases](../../releases) page. It is a single self-contained file and needs no
 Python installation. Copy it wherever you want the library to live and
 double-click it.
