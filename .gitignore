@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# PyInstaller build output. "dist/" is listed so a locally built .exe does not
+# get committed by accident; if you publish the .exe, attach it to a GitHub
+# Release rather than keeping it in the repository.
+build/
+dist/
+*.manifest
+
+# A user's own catalog and everything the app writes beside it. These are
+# personal data and must never end up in the repository.
+Home Library Catalog.xlsx
+Book Covers/
+old versions/
+
+# Keep the shipped sample, which is deliberately tracked.
+!Example Catalog.xlsx
+
+# Excel lock files, left behind while a workbook is open
+~$*.xlsx
+
+# Editor / OS noise
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
